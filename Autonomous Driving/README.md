@@ -1,6 +1,5 @@
 # Autonomous Driving
 
-<br>
 
 ## Objective
 Train a neural network to steer a car using only image from a single camera. `neural_network.py` contains the basic functions and classes required to train the neural network. Method to train the neural network:
@@ -29,12 +28,8 @@ def predict(NN, image_file):
     '''
 ````
 
-<br>
-
 ## Evalution 
 The code is evaluated using `evaluate.py`. Performance will be evaluated by comparing your predicted steering angles to human steering angles.
-
-<br>
 
 ## Packages
 For this mini-project I have only used:
@@ -45,8 +40,6 @@ For this mini-project I have only used:
 <li>time
 <li>scipy
 </ul>
-
-<br>
 
 ## The Data
 Training data [here](http://www.welchlabs.io/unccv/autonomous_driving/data/training.zip). 
