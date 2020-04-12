@@ -19,7 +19,3 @@ The "bbc-1k" dataset is used, which contains 1000 images of bricks, balls, and c
 <li>opencv
 <li>scipy
 </ul>
-
-## Steps
-1. Run blob_detection.py file using the command ```python blob_detection.py```.
-2. Run evaluate.py file using the command ```python evaluate.py```.
